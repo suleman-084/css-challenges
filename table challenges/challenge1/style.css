@@ -1,0 +1,51 @@
+*{
+    margin:0 ;
+    padding: 0;
+    outline: 0;
+}
+body{
+    background-image: url(./images/background-img.jpg);
+}
+.container h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: #fff;
+}
+.container h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: #fff;
+}
+.yo h3{display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color: #fff;
+}
+.yo p{
+    margin-left: 425px;
+    margin-top:10px ;
+   
+}
+.container button{
+    margin-left: 425px;
+    margin-top: 10px;
+    background-color: #609EA0;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 125px;
+}
+.container p input{
+    border: 1px solid #FFF;
+    border-radius: 80px;
+    font-weight: bold;
+
+}
+.yo p {
+    font-weight: bold;
+    color: #FFF;
+
+}
+    

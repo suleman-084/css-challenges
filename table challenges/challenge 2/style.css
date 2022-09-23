@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+body{
+    font-family:"Indie Flower"
+
+}
+tr th {
+    background-color: #7FFFD4;
+    color: red;
+}
+tr td{
+    background-color: #7FFFD4;
+}
+tr td:hover{
+    background-color: #8FB1CC;
+}
+caption{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 90px;
+   
+}
+table {
+    display:flex ;
+    flex-direction: column-reverse;
+}

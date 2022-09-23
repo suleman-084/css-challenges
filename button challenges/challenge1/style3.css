@@ -1,0 +1,28 @@
+body {
+    background-color: #fff;
+}
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items:center;
+}
+
+.btn {
+    background-color: #2998F3;
+    color: #fff;
+    font-size: 20px;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+.badge {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background: black;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

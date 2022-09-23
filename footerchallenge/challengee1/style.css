@@ -1,0 +1,56 @@
+body{
+    background-color: #FFFFFF;
+    display: flex;
+    
+}
+.heading{
+    display: flex;
+    margin-left: 170px;
+    margin-top: 150px;
+   
+}
+.content{
+    font-size: 15px;
+   
+    display: flex;
+    justify-content: right;
+    margin-top: 5px;
+    margin-left: 150px;
+   
+}
+.social-media{
+    margin-left: 150px;
+    text-decoration: none;
+    
+}
+.links{
+    margin-left: 150px;
+}
+.details{
+    margin-left: 150px;
+}
+footer{
+  margin-left: 520px;
+    margin-top: 70px;
+    padding: 
+    5px 5px;
+   
+    
+}
+.services a{
+    text-decoration: none;
+    color: black;
+}
+.social-media a{
+    text-decoration: none;
+    color: black;
+
+}
+.links a {
+    text-decoration: none;
+    color: black;
+}
+.details a {
+    text-decoration: none;
+    color: black;
+}

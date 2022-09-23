@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
+  .footer {
+    position: relative;
+    top: 70%;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  .content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  p {
+    line-height: 2;
+  }
+  .heading {
+    padding-left: 10rem;
+  }
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+  }
